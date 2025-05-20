@@ -63,6 +63,6 @@ Cloud & DevOps:
 📌 Featured Projects
 | Project             | Description                                                                         | Stack                      |
 | ------------------- | ----------------------------------------------------------------------------------- | -------------------------- |
-| **Kisan Connect**   | Multilingual AgriTech app with weather, voice assistance & buyer-farmer matchmaking | Flutter, Firebase, Node.js |
-| **NLP Chatbot**     | AI chatbot using NLTK & Flask, deployed on Firebase                                 | Python, Flask, NLTK        |
-| **Frontend Revamp** | Boosted UI performance by 50% and doubled conversions                               | HTML, CSS, JS              |
+|   Kisan Connect     | Multilingual AgriTech app with weather, voice assistance & buyer-farmer matchmaking | Flutter, Firebase, Node.js |
+|   NLP Chatbot       | AI chatbot using NLTK & Flask, deployed on Firebase                                 | Python, Flask, NLTK        |
+|   Frontend Revamp   | Boosted UI performance by 50% and doubled conversions                               | HTML, CSS, JS              |
