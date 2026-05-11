@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Aakash Eti 👋</h1>
 <p align="center">
-  🚀 Final-Year B.Tech IT Student | Full-Stack Developer | Open Source Enthusiast
+  🚀 Data Science Trainer | Full-Stack Developer | Open Source Enthusiast
 </p>
 
 ---
